@@ -3,7 +3,7 @@
 def my_function(name):
   print("Hello ",name)
 
-my_function("ejaaa")#PEMANGGILAN FUNGSI, jika parameter ada valye maka itu menjadi argument
+my_function("ejaaa")#PEMANGGILAN FUNGSI, jika parameter ada value maka itu menjadi argument
 
 #function mengembalikan nilai
 def get_greeting():

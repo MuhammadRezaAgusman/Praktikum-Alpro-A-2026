@@ -14,6 +14,8 @@ match day:
     print("Saturday")
   case 7:
     print("Sunday")
+  case _:
+    print("hari didalam satu minggu cuma 7 hari oi!")
 
 month = 5
 day = 4

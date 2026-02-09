@@ -32,6 +32,12 @@ for x in fruits:
     continue
   print(x)
 
+for x in fruits:
+  if x == "banana":
+    break
+  print(x)
+
+
 #range() function
 for x in range(6):
   print(x)
